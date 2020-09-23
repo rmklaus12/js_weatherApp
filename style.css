@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    justify-content: center;
+}
+
+.header {
+    display: flex;
+}
+
+form {
+    margin: 50px 0;
+}
+
+#city-input {
+    margin: 50px 0;
+}
+
+.results-box {
+    margin: 0 auto;
+    border: 1px solid grey;
+    text-align: left;
+    width: 400px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
